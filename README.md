@@ -263,8 +263,6 @@ Search and filter functionality
 Pagination for large datasets
 REST API version of the application
 UI enhancement using a modern CSS framework
-Improve AI agent Features and Add more Data
-Collect more State schemes and National Schems
 
 ---
 
